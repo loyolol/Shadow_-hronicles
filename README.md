@@ -73,7 +73,7 @@ python shadow_chronicles.py
 
 ### Вариант 2: Клонирование репозитория
 
-git clone https://github.com/yourusername/shadow-chronicles.git
+git clone https://github.com/loyolol/Shadow_chronicles.git
 cd shadow-chronicles
 python shadow_chronicles.py
 
